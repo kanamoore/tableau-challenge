@@ -1,6 +1,14 @@
 # tableau-challenge
+I used NYC Citi Bike data in March, 2020 to create a dashboard in Tableau.
 
-## Riders Dashboard
+To view the dashboard, access [here.](https://public.tableau.com/profile/kana.moore#!/vizhome/NYCityBikeAnalysis_15879160706130/Story1) or download the file from this repo. 
+
+I created this dashboard to answer questions such as:
+* Who used Citi bikes(Gender, Age, User Type)?
+* When Citi bikes were used?
+* Where Citi bikes were used?
+
+## Riders Dashboard 
 *	Men accounted for 75% of all NYC Citi Bike trips, and men in their 30s had the highest number of bike trips in March 2020.
 * For each age group, the usual percentage of women riders compared to men is 22 to 26%, however, women riders accounted for over 30% of all riders in their 20s.
 *	Both men and women in their 30s had the highest subscription rate among all age groups.
