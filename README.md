@@ -1,7 +1,7 @@
 # tableau-challenge
 I used NYC Citi Bike data in March, 2020 to create a dashboard in Tableau.
 
-To view the dashboard, access [here.](https://public.tableau.com/profile/kana.moore#!/vizhome/NYCityBikeAnalysis_15879160706130/Story1) or download the file from this repo. 
+To view the dashboard, access [here](https://public.tableau.com/profile/kana.moore#!/vizhome/NYCityBikeAnalysis_15879160706130/Story1) or download the file from this repo. 
 
 I created this dashboard to answer questions such as:
 * Who used Citi bikes(Gender, Age, User Type)?
